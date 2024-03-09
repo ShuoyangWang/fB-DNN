@@ -2,6 +2,7 @@
 ------------------------------------------------
 
 # Functional principal components
+For the j-th multi-dimensional functional covariates ![X](https://latex.codecogs.com/svg.image?X_j(s_1,\ldots,s_{d_j})). use Fourier basis functions to extract projection scores by integration.
 ------------------------------------------------
 
 # Simultaneous classification and feature selection via High-dimensional BIC
