@@ -9,10 +9,12 @@ Simultaneous Classification and Feature Selection for Complex Functional Data vi
 ------------------------------------------------
 
 # Deep neural network hyperparameters and structures
+## hyperparameters
 - number of layers 
 - neurons per layer (uniform for all layers)
 - dropout rate (data dependent)
 - tuning for LASSO penalty
+## other details for neural networks 
 - Loss function: cross-entropy loss
 - Batch size: data dependent
 - Epoch number: data dependent
