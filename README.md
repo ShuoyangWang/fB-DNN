@@ -27,8 +27,10 @@
 
 # Function descriptions
 -------------------------------------------------------------
+- "score_extract.py": using Fourier basis to obtain the functional principal components.
+- "main.py": main functions for fB-DNN with cross-entropy loss.  
 
 # Examples
 -------------------------------------------------------------
-- "datagen_2d": simulated data for functional covariates in two-dimension.
-- "datagen_1d2d" simulated data for functional covariates in both one-dimension and two-dimension.
+- "datagen_2d.py": simulated data for functional covariates in two-dimension.
+- "datagen_1d2d.py" simulated data for functional covariates in both one-dimension and two-dimension.
