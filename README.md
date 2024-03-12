@@ -30,3 +30,5 @@
 
 # Examples
 -------------------------------------------------------------
+- "datagen_2d": simulated data for functional covariates in two-dimension.
+- "datagen_1d2d" simulated data for functional covariates in both one-dimension and two-dimension.
