@@ -8,6 +8,7 @@
 
 # Simultaneous classification and feature selection via High-dimensional BIC
 ------------------------------------------------
+- Objective function ![X](https://latex.codecogs.com/svg.image?\min_{f\in\mathcal{D}}n^{-1}\sum_{i=1}^n\mathcal{L}\left(Y_i,f\left(\widehat{\xi}_{i1}^{(r_1)},\ldots,\widehat{\xi}_{ip}^{(r_p)}\right)\right)&plus;\lambda\sum_{j=1}^p&space;P_j\left(b_j\right),\text{s.t.}\|W_1^{(j)}\|_\infty\leq&space;C\|b_j\|)
 
 # Deep neural network hyperparameters and structures
 ## hyperparameters
