@@ -8,7 +8,7 @@
 
 # Simultaneous classification and feature selection via High-dimensional BIC
 ------------------------------------------------
-- neural network class: ![X](https://latex.codecogs.com/svg.image?\mathcal{D}=\left{f_{b,W}:f=\sigma^\ast\left(\sum_{j=1}^p&space;b_j^\intercal\widehat{\xi}_j^{(r_j)}&plus;g_{W}\left(\widehat{\xi}_j^{(r_1)},\ldots,\widehat{\xi}_j^{(r_p)}\right)\right)\right\})
+- ![X](https://latex.codecogs.com/svg.image?aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\mathcal{D}=\left\{f_{b,W}:f=\sigma^\ast\left(\sum_{j=1}^p&space;b_j^\intercal\widehat{\xi}_j^{(r_j)}&plus;g_{W}\left(\widehat{\xi}_j^{(r_1)},\ldots,\widehat{\xi}_j^{(r_p)}\right)\right)\right\})
 - objective function: ![X](https://latex.codecogs.com/svg.image?\min_{f\in\mathcal{D}}n^{-1}\sum_{i=1}^n\mathcal{L}\left(Y_i,f\left(\widehat{\xi}_{i1}^{(r_1)},\ldots,\widehat{\xi}_{ip}^{(r_p)}\right)\right)&plus;\lambda\sum_{j=1}^p&space;P_j\left(b_j\right),\text{s.t.}\|W_1^{(j)}\|_\infty\leq&space;C\|b_j\|)
 
 # Deep neural network hyperparameters and structures
