@@ -3,7 +3,7 @@
 
 # Functional principal components
 - For the j-th multi-dimensional functional covariates ![X](https://latex.codecogs.com/svg.image?X_j(s_1,\ldots,s_{d_j})), use Fourier basis functions to extract projection scores ![xi](https://latex.codecogs.com/svg.image?\xi_{j1},\xi_{j2},\ldots) by integration.
-- Truncate the functional principal components ![truncation](https://latex.codecogs.com/svg.image?\xi_{j1},\ldots,\xi_{jr_j}).
+- Truncate the functional principal components ![truncation](https://latex.codecogs.com/svg.image?\xi_{j1},\ldots,\xi_{jr_j}](https://latex.codecogs.com/svg.image?\widehat{\xi}_{j1},\ldots,\widehat{\xi}_{jr_j})).
 ------------------------------------------------
 
 # Simultaneous classification and feature selection via High-dimensional BIC
