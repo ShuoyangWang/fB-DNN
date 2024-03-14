@@ -24,7 +24,7 @@
 - Epoch number: data dependent
 - Activation function: ReLU, with Sigmoid for the last layer
 - Optimizer: Adam
-- Regularizer: LASSO
+- Regularizer: group-LASSO
 -------------------------------------------------------------
 
 # Function descriptions
